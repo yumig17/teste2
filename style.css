@@ -1,0 +1,104 @@
+@font-face {
+    font-family: tab;
+    src: url(TABLHOID.TTF);
+}
+body{
+    background-image: url(https://static.vecteezy.com/ti/fotos-gratis/t1/36055500-ai-gerado-preto-rosas-em-uma-preto-fundo-foto.jpg);
+    background-size: 100%;
+    background-color: black;
+    
+   
+}
+h1{
+    color: rgb(255, 255, 255);
+    text-align: center; 
+    font-family: tab; 
+    font-size: 70px;
+}
+h2{
+    text-align: center;
+    color: #74c9d6;
+    font-size: 50px;
+    font-family: tab;
+}
+.div01{
+    align-items: center;
+    font-size: 30px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    background-color: #5e5b5c;
+    width: 93vw;
+    border-radius: 15px;
+    
+}
+img{
+    display: block;
+    margin: auto;
+    width: 400px;
+    image-resolution: 100%; 
+    padding: 20px;  
+    border-radius: 20px;
+}
+ 
+.div02{
+    align-items: center;
+    font-size: 30px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    background-color: #5e5b5c;
+    width: 93vw;
+    border-radius: 15px;
+
+}
+.div03{
+    align-items: center;
+    font-size: 30px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    background-color: #5e5b5c;
+    width: 93vw;
+    border-radius: 15px;
+}
+footer{
+    color: white;
+    background-color: #1c1c1c;
+    text-align: center;
+    padding: 20px;
+    margin-top: 40px;
+
+}
+section{
+    font-size: 30px;
+    color: white;
+    border-radius: 8px;
+    box-shadow: #1c1c1c;
+    margin-bottom: 30px;
+    padding: 20px;
+}
+
+nav{
+    background-color: #5e5b5c;
+    text-align: center;
+    padding: 10px 0;
+}
+
+nav a{
+text-decoration: underline;
+}
+
+main{
+    padding: 30px 20px;
+}
+
+section img{
+    max-width: 300px;
+    float: right;
+    margin-left: 20px;
+    border-radius: 8px;
+}
